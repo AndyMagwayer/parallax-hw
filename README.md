@@ -1,5 +1,5 @@
 # Parallax Homework Project
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![parallax-github-background](https://github.com/AndyMagwayer/parallax-hw/blob/main/parallax-github-background.jpg)
 
 ## Deploy:
 
