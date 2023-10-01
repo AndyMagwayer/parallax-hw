@@ -1,7 +1,8 @@
 # Parallax Homework Project
 ![parallax-github-background](https://github.com/AndyMagwayer/parallax-hw/blob/main/parallax-github-background.jpg)
 
-## Deploy:
+## Deploy: https://parallax-hw-magamed.netlify.app/
+
 
 
 This is a repository for the Parallax Homework project. The project aims to implement parallax scrolling effect using HTML, CSS, and JavaScript. 
