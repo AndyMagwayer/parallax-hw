@@ -1,4 +1,9 @@
+var loader = document.querySelector('#preloader')
 
+
+window.addEventListener("load", function() {
+    loader.style.display = "none";
+})
 
 (function() {
     // Tutorial: https://medium.com/@patrickwestwood/how-to-make-multi-layered-parallax-illustration-with-css-javascript-2b56883c3f27
