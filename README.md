@@ -1,4 +1,8 @@
 # Parallax Homework Project
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+
+## Deploy:
+
 
 This is a repository for the Parallax Homework project. The project aims to implement parallax scrolling effect using HTML, CSS, and JavaScript. 
 
